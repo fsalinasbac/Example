@@ -1,0 +1,36 @@
+# build files
+**/Build
+**/*.bin
+**/*.a
+**/*.CFN
+
+
+# download files
+**/Download
+
+
+# doc images
+*/HMI/docImages
+
+
+# previous versions
+**/PreviousVersions
+
+
+# workspace file
+**/*.wkpx
+
+
+# USB files
+USBCWDXHybrid_28IO
+USBCWDXHybrid_42IO
+
+
+# backups
+**/Backup
+**/ChangeTargetBackup
+
+
+# simulation files
+**/*.imgx.simul
+**/*.WKSX
