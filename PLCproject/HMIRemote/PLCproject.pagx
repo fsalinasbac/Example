@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<PRJ_RESOURCES version="20170929">
+<PRJ_RESOURCES version="20181002">
 	<LANGUAGES>
 		<LANG id="0" descr="BaseLanguage">
 			<ENUMS/>
@@ -17,7 +17,7 @@
 	</PAGES_INFO>
 	<COMMON_OBJECTS/>
 	<RESOURCES>
-		<STRINGSENUMS useOnTarget="false"/>
+		<STRINGSENUMS useOnTarget="false" stringsIndexedActive="false" enumsIndexedActive="false"/>
 		<BITMAPS useOnTarget="false" downloadOnlyUsed="true" downloadChanged="true"/>
 		<FONTS useOnTarget="false" downloadUsedChars="false"/>
 	</RESOURCES>

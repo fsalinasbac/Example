@@ -4,3 +4,8 @@
 	(*                            *)
 	(******************************)
 
+        VAR_GLOBAL
+	{G:"IO_Mapping"}
+rExample AT %IW1.0 : INT;	{ DE:"AIL1 analogue input" }
+	END_VAR
+
